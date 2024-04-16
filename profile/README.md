@@ -22,20 +22,6 @@ Welcome to the HSE Apps GitHub repository! This organization is committed to dev
 ### Repository Links
 Each project above has its own repository under our GitHub organization, accessible to all students and faculty for contributions and usage.
 
-## Archived Projects
-
-
-
-### Old Repository Links
-These projects are part of our continuous legacy and are essential to various operations within the school. Their repositories are also open for viewing and contributions.
-
-## Contributing
-
-Interested in contributing? We welcome contributions from all students, faculty, and alumni. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to our projects.
-
-## License
-
-All projects are licensed under the MIT License unless specified otherwise in individual repositories. See the [LICENSE](LICENSE) in each repository for more details.
 
 ## Contact
 
